@@ -5,4 +5,4 @@
 *DOMAIN*:WEB DEVELOPMENT
 *DURATION*:4 WEEKS
 #OUTPUT
-
+https://github.com/rishithayelleni/PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/blob/main/output.png
