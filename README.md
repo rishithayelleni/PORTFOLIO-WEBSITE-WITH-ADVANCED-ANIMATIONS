@@ -4,5 +4,5 @@
 *INTERN ID*:
 *DOMAIN*:WEB DEVELOPMENT
 *DURATION*:4 WEEKS
-#OUTPUT
-https://github.com/rishithayelleni/PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/blob/main/output.png
+#OUTPUT[
+https://github.com/rishithayelleni/PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/blob/main/output.png](https://github.com/rishithayelleni/PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/blob/main/output.png?raw=true)
